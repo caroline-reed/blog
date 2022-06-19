@@ -1,0 +1,12 @@
+title: Happy Cloud
+author: Caroline
+email: reedce9@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog about mindfulness and tech
+
+# social links
+github_username:  caroline-reed
+
+show_excerpts: true 
+
+theme: minima
